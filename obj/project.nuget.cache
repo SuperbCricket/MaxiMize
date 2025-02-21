@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdDGW/Sslcw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gerbe\\source\\repos\\MaxiMizer\\MaxiMizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerbe\\.nuget\\packages\\system.codedom\\9.0.2\\system.codedom.9.0.2.nupkg.sha512",
+    "C:\\Users\\gerbe\\.nuget\\packages\\system.management\\9.0.2\\system.management.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

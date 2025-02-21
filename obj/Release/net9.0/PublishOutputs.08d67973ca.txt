@@ -1,0 +1,8 @@
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\MaxiMizer.exe
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\MaxiMizer.dll
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\MaxiMizer.deps.json
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\MaxiMizer.runtimeconfig.json
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\MaxiMizer.pdb
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\System.CodeDom.dll
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\System.Management.dll
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\runtimes\win\lib\net9.0\System.Management.dll

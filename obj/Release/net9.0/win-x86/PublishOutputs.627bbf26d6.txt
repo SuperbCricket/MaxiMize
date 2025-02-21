@@ -1,0 +1,2 @@
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\win-x86\MaxiMizer.pdb
+C:\Users\gerbe\source\repos\MaxiMizer\bin\Release\net9.0\publish\win-x86\MaxiMizer.exe
